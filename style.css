@@ -1,0 +1,14 @@
+.gallery 
+ {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.gallery__item 
+{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
