@@ -35,3 +35,62 @@
   font-weight: bold;
   background-color: yellow;
 }
+
+.education__section {
+  padding-bottom: 30px;
+}
+
+.education__section__header__wrapper {
+  padding-bottom: 10px;
+}
+
+.education__section__header {
+  display: inline-block;
+}
+
+.education__section__header__timeline {
+  font-weight: bold;
+  font-size: large;
+  padding-right: 20px;
+}
+
+.education__section__header__university {
+  font-style: italic;
+}
+
+ul.education-list {
+  list-style-type: none;
+}
+
+li.education_listing {
+  padding: 10px;
+}
+
+ul.job-list {
+  list-style-type: none;
+}
+
+li.job_listing {
+  padding: 10px;
+}
+
+.job__section {
+  margin: 20px;
+}
+
+.job__section__header__wrapper {
+  padding-bottom: 20px;
+}
+
+.job__section__header__title {
+  font-size: large;
+  font-weight: bold;
+}
+
+.job__section__header__timeline {
+  padding-right: 10px;
+}
+
+.job__section__header__company {
+  font-style: italic;
+}
